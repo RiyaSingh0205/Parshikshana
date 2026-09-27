@@ -137,6 +137,6 @@ Smart India Hackathon (SIH)
 
 📬 Contact
 
-Aditya Singh
+Aditya Singh & Riya Singh
 Aspiring Full Stack & Backend Developer
 Focused on building scalable, secure, and impactful systems.
